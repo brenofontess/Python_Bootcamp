@@ -18,6 +18,8 @@ screen.bgcolor("black")
 screen.title("My Snake Game")
 screen.tracer(0)
 
+snake = Snake()
+
 # 1) Create a snake body
 
 # ## Option 1
